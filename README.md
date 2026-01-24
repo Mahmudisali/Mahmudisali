@@ -2,8 +2,7 @@
 <h3 align="center">Student at KBTRL </h3>
 
 <p align="center">
-  I’m a student studying at <strong>KBTRL, Azerbaijan</strong>. <br/>
-  I was born in 2011</strong>. <br/>
+  I’m a student studying at <strong>KBTRL, Azerbaijan</strong>. <br/></strong>. <br/>
 
 </p>
 
