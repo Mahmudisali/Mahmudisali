@@ -10,7 +10,7 @@
 
 ## 🌐 Competitive Programming
 
-- **Codeforces:** https://codeforces.com/profile/MahmudIsali
+- **Codeforces:** https://codeforces.com/profile/mahmd
 - **AtCoder:** https://atcoder.jp/users/MahmudIsali
 ---
 
